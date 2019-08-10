@@ -18,7 +18,7 @@ Researchers believe that your retention power can drastically increase if are he
 
 Our subtitle service will help you solve the retention issues as well. You can easily follow the words along as they pop up on the screen.
 
-[Screenshot 2019-08-11 at 3.35.55 AM.png](/uploads/Screenshot%202019-08-11%20at%203.35.55%20AM.png)
+![Screenshot 2019-08-11 at 3.35.55 AM.png](/uploads/Screenshot%202019-08-11%20at%203.35.55%20AM.png)
 
 ## How our chrome extension works
 
