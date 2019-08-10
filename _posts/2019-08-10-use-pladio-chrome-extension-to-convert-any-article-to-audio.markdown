@@ -34,7 +34,9 @@ Once done you can see the article popping up in the library section of the Andro
 
 ## Future Plans
 
-Our future plans for the chrome extension are pretty simple. We will need everyone's support in that. Please leave a review whenever you want to suggest something to us or something is not working.
+Our future plans for the chrome extension are pretty simple. We will need everyone's support in that. What we want to do is fix issues as quickly as possible.
+
+Please leave a review whenever you want to suggest something to us or something is not working.
 
 Also, if you liked the product, feel free to give a 5-star rating on the play store and chrome webstore.
 
