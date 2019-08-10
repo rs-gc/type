@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-image: '/images/pages/about.jpeg'
+layout: page
+image: "/images/pages/about.jpeg"
 ---
 
 You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.
