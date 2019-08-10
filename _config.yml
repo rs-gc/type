@@ -13,14 +13,14 @@ defaults:
     path: _pages
   values:
     permalink: "/:basename:output_ext"
-email: ''
-description: ''
-baseurl: ''
+email: 
+description: 
+baseurl: 
 url: https://rs-gc.github.io/type/
-twitter: ''
-github: ''
-instagram: ''
-facebook: ''
+twitter: 
+github: 
+instagram: 
+facebook: 
 markdown: kramdown
 permalink: pretty
 paginate: 60
