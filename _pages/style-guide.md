@@ -1,7 +1,7 @@
 ---
 title: Style Guide
-layout: page
 published: false
+layout: page
 image: "/images/pages/styleguide.jpg"
 ---
 
