@@ -1,12 +1,13 @@
 ---
 title: How to travel around the world with less expenses
 date: 2015-12-21 00:00:00 Z
+published: false
 tags:
 - frontpage
 - jekyll
 - blog
-layout: post
 image: "/images/posts/4.jpg"
+layout: post
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec diam augue, luctus a lacus vitae, ullamcorper interdum lacus. Sed consequat, nisi non mattis euismod, mi metus venenatis lacus, id feugiat orci mi eu urna. Donec condimentum lacus eget nibh consectetur, ac venenatis erat tristique. Nunc eros metus, venenatis in cursus ut, aliquam eu diam.
