@@ -8,4 +8,33 @@ collections:
   uploads:
     title: Uploads
     output: true
-Field name: 
+defaults:
+- scope:
+    path: _pages
+  values:
+    permalink: "/:basename:output_ext"
+email: 
+description: 
+baseurl: 
+url: https://rs-gc.github.io/type/
+twitter: 
+github: 
+instagram: 
+facebook: 
+markdown: kramdown
+permalink: pretty
+paginate: 60
+sass:
+  style: compressed
+gems:
+- jekyll-paginate
+- jekyll/tagging
+include:
+- _pages
+exclude:
+- vendor
+- Gemfile
+- Gemfile.lock
+tag_page_dir: tag
+tag_page_layout: tag_page
+tag_permalink_style: pretty
